@@ -1,6 +1,7 @@
 # FirstGit
 Prathamesh Kumbar
 
+
 simple project
 # Calculator in C
 
@@ -25,4 +26,4 @@ A simple C program to perform basic arithmetic operations.
    ./calculator
 
 ## Author
-Prathamesh Kumbar
+**Prathamesh Kumbar**
